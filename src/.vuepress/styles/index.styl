@@ -1,0 +1,205 @@
+@import url('https://codeworks.blob.core.windows.net/public/assets/style/main.min.css')
+@import './palette.styl'
+html
+  scroll-behavior smooth
+  -webkit-font-smoothing antialiased
+  // font-family "Fira Code", monospace
+  .content__default
+    text-align left
+    white-space pre-line
+    word-break break-word
+    padding .75rem
+    a, p, ul
+      font-size 14pt
+      // font-family "Fira Code", monospace
+      font-weight 500
+    h1, h2, h3, h4, h5, h6 
+      // font-family "Roboto Slab", serif
+  a:not(.btn):hover
+    color var(--accent-color-l10)
+  .copy-code-button
+    background var(--accent-color-d10)
+    transition all .15s linear
+    &:hover
+      background var(--accent-color-l10)
+    svg 
+      filter: drop-shadow(1px 2px 7px grey);
+
+.site-name
+  display none !important
+
+.navbar 
+  background #111927
+  display flex
+  align-items center
+  justify-content start
+  .site-name
+    display none
+  .logo
+    height 45px !important
+    margin-top -4px
+  .nav-item a.nav-link
+    color white
+
+.theme-light
+  .navbar
+    background #111927
+    a
+      color #f0f8ff
+  pre
+    color: var(--grey3)
+    background #f5f2f0 !important
+  div[class*='language-'].line-numbers-mode::after
+    background #f5f2f0 !important
+
+
+div[class*='language-']
+ color var(--accent-color) !important
+
+
+img
+  cursor pointer
+  &[alt=small]  
+    width 200px
+
+.color-button
+  display none
+
+.theme-default-content pre, .theme-default-content pre[class*='language-']
+  border-top-left-radius 0
+  border-bottom-left-radius 0
+
+.copy-code-button
+  display flex
+
+img:only-child
+  max-height 350px
+  display block
+  text-align center
+
+iframe
+  max-width 100%
+
+.breadcrumb
+  margin-top 3.5rem !important
+  background #2f3b4f
+  li.is-active a
+    color white !important
+  &.disable
+    background transparent
+
+body:not(.theme-dark) div[class*='language-'].line-numbers-mode .highlight-lines .highlighted:before, body.theme-light div[class*='language-'].line-numbers-mode .highlight-lines .highlighted:before
+  background: #19191940;
+  color: white;
+  width: 100%;
+  filter: brightness(5.5);
+
+[data-balloon-pos]:before
+  background transparent !important
+[data-balloon-pos]:after
+  margin-right -1px !important
+
+a
+  position relative
+  padding 0 .25rem
+
+a:before, button:before 
+  border-radius inherit
+  bottom 0
+  color inherit
+  content ""
+  left 0
+  opacity 0
+  pointer-events none
+  position absolute
+  right 0
+  top 0
+  transition opacity 0.2s cubic-bezier(0.4, 0, 0.6, 1)
+  background-color currentColor
+
+a:hover::before, button:hover::before 
+  opacity 0.1
+
+a.sidebar-link
+  color #111927 !important
+
+a.sidebar-link.active
+  background-color #111927 !important
+  color white !important
+
+.meta-item.contributors
+  text-align left !important
+  max-width 50% !important
+
+.page-nav p.inner
+  background #111927
+  display flex
+  justify-content space-between
+  align-items center
+  padding .5rem
+  border-radius 5px
+  a
+    color white
+  svg
+    margin-top -5px
+
+.edit-link
+  display flex !important
+  align-items center !important
+
+.btn
+  display inline-flex
+  border-color transparent
+  cursor pointer
+  font-size 1.2rem
+  color #fff
+  background-color var(--accent-color)
+  padding 0.8rem 1.6rem
+  border-radius 4px
+  transition background-color .1s ease
+  box-sizing border-box
+  &:hover
+    background-color var(--accent-color-l10)
+    text-decoration none !important
+  
+blockquote 
+  border-left-width 8px
+  border-left-color var(--accent-color-l10)
+  color white
+  background-color #111927
+  a
+    color var(--accent-color-l10) !important
+  code
+    color #fbff04 !important
+
+.theme-default-content.content__default
+  padding-top 0
+  a
+    color #111927
+
+.go-to-top
+  color var(--accent-color-l10)!important
+
+@media screen and (max-width: 600px) 
+  .flex-wrap
+    flex-wrap wrap
+
+html body #app
+  .theme-default-content
+    padding .75 !important
+    h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child 
+      margin-top unset !important 
+      padding-top unset !important 
+    p
+      text-align left
+    .home 
+      .hero img
+        max-width 200px !important
+      .features 
+        .feature   
+          flex-basis calc(50% - 5rem)
+          p
+            text-align left
+          a
+            text-decoration none
+
