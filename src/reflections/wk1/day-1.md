@@ -1,13 +1,13 @@
 # Git
 
-## Why
+## Why do we use Git?
 
 explain
 
-## What
+## What are the benefits of having multiple branches?
 
 explain
 
-## What
+## What is the difference between Git and GitHub?
 
 explain
