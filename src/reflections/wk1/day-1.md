@@ -6,7 +6,7 @@ One of the reasons we use Git is so developers who are working on the same proje
 
 ## What are the benefits of having multiple branches?
 
-One of reason to have multiple branches is that you can have the master branch live while you are working on an updated version of the code. 
+One reason to have multiple branches is that you can have the master branch live while you are working on an updated version of the code. 
 
 ## What is the difference between Git and GitHub?
 
