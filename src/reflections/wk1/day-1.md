@@ -10,4 +10,4 @@ One reason to have multiple branches is that you can have the master branch live
 
 ## What is the difference between Git and GitHub?
 
-Git is a local repository while GitHub is a remote repository that other developers can have access to.
+Git is a local repository while GitHub is a remote repository that you or other developers can access from any workstation.

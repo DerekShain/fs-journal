@@ -15,19 +15,19 @@ Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+The container for all HTML elements.
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Hyper Text Markup Language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,13 +38,15 @@ Make Directory
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector {
+  property: value;
+}
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+value
 ```
 
 **8.** In what tag does the majority of your code belong?
