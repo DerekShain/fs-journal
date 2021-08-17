@@ -5,7 +5,9 @@
 A Pseudo-Class is a special state of an element. 
 ```selector:pseudo-class{
     property:value;
-}```
+}
+```
+
 I believe some of the most common pseudo-classes we will use will be :hover, :root, and :first-child.
 
 ## What is Specificity and how might you use it to your benefit?
