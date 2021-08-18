@@ -17,7 +17,7 @@ Specificity is a tool built into css that determines which rule should be applie
 
 ## What problems do you think you could run into if you over-utilized the !important feature?
 
-Over-utilizing the !important feature can cause console log errors and issues with your code as multiple codes are trying to run at the same time. 
+Over-utilizing the !important feature can cause console log errors and issues with your code as multiple codes are trying to run at the same time. It is a great feature to use but critical not to overuse it. 
 
 ## Daily Challenge
 
