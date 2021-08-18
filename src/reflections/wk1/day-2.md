@@ -21,4 +21,4 @@ Over-utilizing the !important feature can cause console log errors and issues wi
 
 ## Daily Challenge
 
-Here is the daily challenge for week 2 https://derekshain.github.io/resume/
+Here is the daily challenge for week 2 [Cool Site](https://derekshain.github.io/resume/)
