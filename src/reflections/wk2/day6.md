@@ -14,7 +14,7 @@ Let is only available to use in your block of code.
 
 Const a variable that never changes and maintains constant values and can only be used in the block you declared.
 
-Var can be used anywhere. it can be globally or locally scoped. any function declared with var outside a function block can be used anywhere.
+Var can be used anywhere. it can be globally or locally scoped. any variable declared with var outside a function block can be used anywhere.
 
 # Daily Challenge
 
