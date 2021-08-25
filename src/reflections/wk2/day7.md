@@ -13,4 +13,4 @@
 
 # Daily Challenge
 
-Here is the daily challenge for day 1. (JS Loops and Arrays)[https://derekshain.github.io/js-loopsandarrays/]
+Here is the daily challenge for day 1. [JS Loops and Arrays](https://derekshain.github.io/js-loopsandarrays/)

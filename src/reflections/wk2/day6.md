@@ -18,4 +18,4 @@ Var can be used anywhere. it can be globally or locally scoped. any variable dec
 
 # Daily Challenge
 
-Here is the daily challenge for day 1. (JS Basics)[https://derekshain.github.io/js-basic-challenge/]
+Here is the daily challenge for day 1. [JS Basics](https://derekshain.github.io/js-basic-challenge/)

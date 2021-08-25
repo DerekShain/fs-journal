@@ -14,4 +14,4 @@
 
 # Daily Challenge
 
-Here is the daily challenge for day 1. (Rock Paper Scissors)[https://derekshain.github.io/rockpaperscissors/]
+Here is the daily challenge for day 1. [Rock Paper Scissors](https://derekshain.github.io/rockpaperscissors/)
