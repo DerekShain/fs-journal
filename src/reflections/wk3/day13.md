@@ -5,3 +5,6 @@
 # What do you have to make sure you are doing with every Get to insure the value does not become undefined?
 
 # What are some of the benefits of the proxy object that we are using in our structure for applications?
+
+# Daily Challenge
+[Gregslist](https://derekshain.github.io/gregslist/)
