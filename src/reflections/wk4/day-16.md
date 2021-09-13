@@ -19,5 +19,5 @@ Nothing will happen right away as it is async.
 * Handle every single errors you may receive.
 
 ## Daily Challenge 
-no daily challenge - no class
-[None](https://github.com/derekshain)
+
+[No class on monday so no daily challenge but go ahead and click here if you want...](https://www.youtube.com/watch?v=6-HUgzYPm9g)
