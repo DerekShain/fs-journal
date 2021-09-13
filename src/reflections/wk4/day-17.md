@@ -12,8 +12,8 @@ They make the code look cleaner and easier to read. They use a process calling c
 
 ## What is the difference between .then() and .catch()?
 
-* .then() is only used for resolved Promises.
-* .catch() is used if the Promise gets rejected where you can console log the error or a message.
+* ```.then()``` is only used for resolved Promises.
+* ```.catch()``` is used if the Promise gets rejected where you can console log the error or a message.
 
 ## Daily Challenge 
 no daily challenge - no class
