@@ -1,11 +1,11 @@
-## JavaScript Promises
+# JavaScript Promises
 
-# What are the three states of a Promise?
+## What are the three states of a Promise?
 
-# How do promises seek to resolve the issues of "callback hell"?
+## How do promises seek to resolve the issues of "callback hell"?
 
-# What is the difference between .then() and .catch()?
+## What is the difference between .then() and .catch()?
 
-# Daily Challenge 
+## Daily Challenge 
 no daily challenge - no class
 [Gregslist V2 ](https://derekshain.github.io/gregslist/)

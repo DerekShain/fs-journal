@@ -1,5 +1,5 @@
 # Weekly Review
 
-# Weekly Checkpoint
+## Weekly Checkpoint
 
 [Inspire](https://derekshain.github.io/inspire/)
