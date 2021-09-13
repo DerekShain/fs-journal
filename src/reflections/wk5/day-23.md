@@ -1,9 +1,9 @@
-# MongoDB Relationships
+# MongoDB Relationships Pt.2
 
-## What are the three types of relationships?
+## In simple terms what is a sub-document?
 
-## What are the benefits of the traditional linking of relationships instead of Embedding
+## When might you use a sub-document?
 
-## What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
+## How do you add to a collection of sub-documents? What about editing them?
 
 ## Daily Challenge
