@@ -35,7 +35,7 @@ module.exports = config({
         link: '/reflections/',
       },
       {
-        text: 'test',
+        text: 'Student Guide',
         link: 'https://codeworksacademy.com/fs-student-guide/'
       },
       {
