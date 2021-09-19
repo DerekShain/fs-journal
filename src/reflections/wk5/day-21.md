@@ -14,6 +14,8 @@ It allows you to pass information to and from a website by appending that inform
 
 ## When do you think Query parameters would be helpful when writing your server?
 
+When looking for and separating specific objects and sub-objects of a specific item.
+
 ## Daily Challenge
 
 [Daily Challenge BURGERS](https://derekshain.github.io/node-intro/)
