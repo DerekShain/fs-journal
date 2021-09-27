@@ -6,12 +6,13 @@ Lifecycle hooks show you how things work behind the scenes. They are used for kn
 
 ## How have you utilized lifecycle hooks in your afternoon projects?
 
-
+onMounted
 
 ## What are mounting hooks? When might you use them?
 
-
+hooks that allow you to access your component immediately before and after the first render.
+When i'm using an onMounted method.
 
 ## Daily Challenge
 
-(Gregslist Vue!)[https://derekshain.github.io/gregslist-vue/]
+(Gregslist Vue!)[https://github.com/DerekShain/gregslist-vue]

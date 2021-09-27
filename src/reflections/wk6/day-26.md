@@ -17,4 +17,4 @@ A small feature that makes up a piece of the user interface allowing components 
 
 ## Daily Challenge
 
-[Vue Playground](https://derekshain.github.io/Vue-Playground/)
+[Vue Playground](https://github.com/DerekShain/Vue-Playground)
