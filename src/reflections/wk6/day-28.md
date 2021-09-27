@@ -15,4 +15,4 @@ When i'm using an onMounted method.
 
 ## Daily Challenge
 
-(Gregslist Vue!)[https://github.com/DerekShain/gregslist-vue]
+[Gregslist Vue!](https://github.com/DerekShain/gregslist-vue)
