@@ -12,6 +12,8 @@ An object that holds variables in a specific order.
 
 ## How would you retrieve an item from a list? What method could you use?
 
+By using a for loop. foreach
+
 ## Daily Challenge
 
 [GregsList C#](https://github.com/DerekShain/Gregslist-CSharp)
