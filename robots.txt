@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://DerekShain.github.io/fs-journal/fs-journal/sitemap.xml
